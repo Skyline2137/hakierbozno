@@ -1,0 +1,23 @@
+/* Windows Bar */
+    .titleBar-AC4pGV {
+        height: 20px;
+        margin-top: 0px;
+        padding-top: 2.5px;
+        background-color: var(--color1);
+        border-bottom: 1px solid var(--accent-color);
+    }
+    .titleBar-AC4pGV .wordmarkWindows-1v0lYD::after {
+        content: "Red 'n Black v B-1.11";
+        font-size: 15px;
+        font-family: Arial;
+        font-weight: 600;
+        color: var(--accent-color);
+        position: relative;
+        bottom: 2px;
+    }
+    .wordmarkWindows-1v0lYD svg {
+        color: var(--accent-color);
+        margin-right: 9px;
+    }
+
+
